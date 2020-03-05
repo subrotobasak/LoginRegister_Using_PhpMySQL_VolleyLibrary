@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginRegister_Using_PhpMySQL_VolleyLibrary</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_up_to_Continue">Sign in to Continue</string>
+    <string name="register">Register</string>
+    <string name="userName">User Name</string>
+</resources>
